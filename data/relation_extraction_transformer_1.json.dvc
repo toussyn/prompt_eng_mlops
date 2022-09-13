@@ -1,0 +1,4 @@
+outs:
+- md5: 52d4e905c0a8571aaacc246582231db4
+  size: 47101
+  path: relation_extraction_transformer_1.json
